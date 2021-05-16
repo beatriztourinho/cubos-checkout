@@ -4,7 +4,7 @@
       "id": 1,
       "nome": "Pipoca para Microondas Manteiga YOKI 50g",
       "preco": 169,
-      "estoque": 6,
+      "estoque": 3,
       "categoria": "Bazar"
     },
     {
@@ -32,7 +32,7 @@
       "id": 5,
       "nome": "Biscoito BAUDUCCO Choco Biscuit Leite 80g",
       "preco": 519,
-      "estoque": 1,
+      "estoque": 0,
       "categoria": "Bazar"
     },
     {
@@ -60,7 +60,7 @@
       "id": 9,
       "nome": "Arroz Parboilizado Tipo 1 CAMIL Pacote 5kg",
       "preco": 2749,
-      "estoque": 9,
+      "estoque": 7,
       "categoria": "Bazar"
     },
     {
@@ -74,7 +74,7 @@
       "id": 11,
       "nome": "Oléo de Canola QUALITÁ Pet 900ml",
       "preco": 1199,
-      "estoque": 22,
+      "estoque": 20,
       "categoria": "Oleo"
     },
     {

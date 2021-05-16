@@ -1,0 +1,15 @@
+{
+  "subtotal": 5498,
+  "dataDeEntrega": "04-06-2021",
+  "valorDoFrete": 5000,
+  "totalAPagar": 10498,
+  "produtos": [
+    {
+      "id": 9,
+      "nome": "Arroz Parboilizado Tipo 1 CAMIL Pacote 5kg",
+      "preco": 2749,
+      "categoria": "Bazar",
+      "quantidade": 2
+    }
+  ]
+}
